@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1732923602 "2024CV-FelipeAlves.tex" "/home/felip/Git/paper_repo/2024CV-FelipeAlves.pdf" "2024CV-FelipeAlves" 1732923603
+["pdflatex"] 1732923703 "2024CV-FelipeAlves.tex" "/home/felip/Git/paper_repo/2024CV-FelipeAlves.pdf" "2024CV-FelipeAlves" 1732923704
   "/etc/texmf/web2c/texmf.cnf" 1596206780 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/felip/Git/paper_repo/2024CV-FelipeAlves.aux" 1732923603 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "/home/felip/Git/paper_repo/2024CV-FelipeAlves.aux" 1732923704 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1480098701 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -46,12 +46,12 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1689859437 2509985 a64a10c5b5433ae0b12f59d58689b43f ""
-  "2024CV-FelipeAlves.aux" 1732923603 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "2024CV-FelipeAlves.out" 1732923602 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "2024CV-FelipeAlves.tex" 1732923575 25161 74f04eff3ca22980409f86768cce72c0 ""
+  "2024CV-FelipeAlves.aux" 1732923704 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "2024CV-FelipeAlves.out" 1732923703 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "2024CV-FelipeAlves.tex" 1732923674 25159 a320262a29998a219f0f45fcde022441 ""
   (generated)
   "2024CV-FelipeAlves.aux"
+  "/home/felip/Git/paper_repo/2024CV-FelipeAlves.pdf"
+  "2024CV-FelipeAlves.out"
   "2024CV-FelipeAlves.log"
   "/home/felip/Git/paper_repo/2024CV-FelipeAlves.log"
-  "2024CV-FelipeAlves.out"
-  "/home/felip/Git/paper_repo/2024CV-FelipeAlves.pdf"
